@@ -1,6 +1,7 @@
 # AppCCoreData - Xcode 11.5
+## CoreData (Crud) - CoreAnimation - CollectionView(Gemini) - TableView
 
-## To DO
+### To DO
 
 	1.	Definir les entitées et attributs
 	2.	Générer les classes ds le model => codegen: Manual
