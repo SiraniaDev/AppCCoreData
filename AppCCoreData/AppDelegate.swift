@@ -66,7 +66,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func saveContext () {
         let context = persistentContainer.viewContext
-        if context.hasChanges {
+        if context.hasChanges { // Si change , Save
             do {
                 try context.save()
             } catch {
